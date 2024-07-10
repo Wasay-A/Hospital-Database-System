@@ -5,12 +5,14 @@ This is a hospital database system project worked on by Wasay Ahmed and Simon Sh
 
 This project utilizes database system principles to construct a website which manages a hospital system. The hospital database system has three main user: admin, nurse, and patient. Each user has various functionalities. The admin is able to manage nurses, patients, and vaccinations. The nurse can manage profile information, patients, and schedule time slots. The patient can manage profile information and scheduling vaccinations. Some common tasks the users can accomplish with the database system are updating, deleting, and adding information.
 
-The project involved numerous group meetings and multiple parts. The parts to the project were: requirements, low-fidelity prototype, user study 1, functional prototype, user study 2, final presentation, final paper. A big purpose of the project was to apply various user interface design and programming principles to create a functioning project that would fulfil the user's needs. In order to make the project most beneficial to the user, user studies were conducted to learn and understand what a user would want from the project.
+The project involved numerous group meetings and two milestones. Milestone 1 involved creating an Entity Relationship Diagram (ERD) for the hospital database system. Milestone 2 involved implementing the database system through XAMPP with Apache HTTP server, MySQL, PHP, and HTML.
+
 
 This readme.md file includes an overview and screenshots of the project. In order to see more on the database system code and diagrams, please inform Wasay.
 
 <b>Technologies Used:</b>
 <br>- XAMPP with Apache HTTP server, MySQL, and PHP
+- HTML for website
 
 <b>Some Screenshots:</b><br>
 <img width="1439" alt="Screenshot 2024-07-10 at 3 35 25 PM" src="https://github.com/Wasay-A/Hospital-Database-System/assets/98603984/c8e8b8fa-552d-4683-923a-9c99ec9bbc47">
