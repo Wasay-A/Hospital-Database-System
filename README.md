@@ -3,7 +3,7 @@
 <b>Overview</b><br>
 This is a hospital database system project worked on by Wasay Ahmed and Simon Shibu during Fall 2023 at University of Illinois at Chicago for the course CS 480 Database Systems taught by Professor Abolfazl Asudeh.
 
-This project utilizes database system principles to construct a website which manages a hospital system. The hospital database system has three main user: admin, nurse, and patient. Each user has various functionalities. For example the admin is able to  
+This project utilizes database system principles to construct a website which manages a hospital system. The hospital database system has three main user: admin, nurse, and patient. Each user has various functionalities. For example the admin is able to manage nurses, patients, and vaccinations. 
 
 The project involved numerous group meetings and multiple parts. The parts to the project were: requirements, low-fidelity prototype, user study 1, functional prototype, user study 2, final presentation, final paper. A big purpose of the project was to apply various user interface design and programming principles to create a functioning project that would fulfil the user's needs. In order to make the project most beneficial to the user, user studies were conducted to learn and understand what a user would want from the project.
 
