@@ -11,7 +11,7 @@ The project involved numerous group meetings and two milestones. Milestone 1 inv
 This readme.md file includes an overview and screenshots of the project. In order to see more on the database system code and diagrams, please inform Wasay.
 
 <b>Technologies Used:</b>
-<br>- XAMPP with Apache HTTP server, MySQL, and PHP
+- XAMPP with Apache HTTP server, MySQL, and PHP
 - HTML for website
 
 <b>Some Screenshots:</b><br>
