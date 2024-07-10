@@ -22,7 +22,7 @@ This readme.md file includes an overview and screenshots of the project. In orde
 <img width="1440" alt="Screenshot 2024-07-10 at 4 09 03 PM" src="https://github.com/Wasay-A/Hospital-Database-System/assets/98603984/ba045b49-bf77-49e5-b9a0-f119fd546c50">
 <img width="1440" alt="Screenshot 2024-07-10 at 4 09 18 PM" src="https://github.com/Wasay-A/Hospital-Database-System/assets/98603984/ca423f4e-2a16-4c37-a55c-4e3b203f15ab">
 <img width="1440" alt="Screenshot 2024-07-10 at 4 09 30 PM" src="https://github.com/Wasay-A/Hospital-Database-System/assets/98603984/654388a0-ee82-445a-8e2e-fa03da27af84">
+<b>Update Nurse</b>
 <img width="1440" alt="Screenshot 2024-07-10 at 4 10 24 PM" src="https://github.com/Wasay-A/Hospital-Database-System/assets/98603984/28bd5c53-a8c3-42bc-83b2-56e6005094ec">
 <img width="1440" alt="Screenshot 2024-07-10 at 4 11 24 PM" src="https://github.com/Wasay-A/Hospital-Database-System/assets/98603984/a60b8bed-bd19-41af-b806-e2748867ab20">
-<b>Update Nurse</b>
 <img width="1440" alt="Screenshot 2024-07-10 at 4 11 36 PM" src="https://github.com/Wasay-A/Hospital-Database-System/assets/98603984/a29decc9-efff-4b4b-b186-721991f21c08">
