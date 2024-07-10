@@ -15,6 +15,7 @@ This readme.md file includes an overview and screenshots of the project. In orde
 <b>Some Screenshots:</b><br><br
 <img width="1439" alt="Screenshot 2024-07-10 at 3 35 25 PM" src="https://github.com/Wasay-A/Hospital-Database-System/assets/98603984/c8e8b8fa-552d-4683-923a-9c99ec9bbc47">
 <img width="1440" alt="Screenshot 2024-07-10 at 3 37 45 PM" src="https://github.com/Wasay-A/Hospital-Database-System/assets/98603984/e69260e9-a09c-4801-8ace-ad177d4f3fa2">
+<b>Register Account</b>
 <img width="1440" alt="Screenshot 2024-07-10 at 3 35 59 PM" src="https://github.com/Wasay-A/Hospital-Database-System/assets/98603984/e366790b-573a-48bb-b131-00994724a178">
 <img width="1440" alt="Screenshot 2024-07-10 at 3 36 11 PM" src="https://github.com/Wasay-A/Hospital-Database-System/assets/98603984/252a513e-32ea-4dfc-987e-d24c818b576e">         <img width="1440" alt="Screenshot 2024-07-10 at 4 09 03 PM" src="https://github.com/Wasay-A/Hospital-Database-System/assets/98603984/ba045b49-bf77-49e5-b9a0-f119fd546c50">
 <img width="1440" alt="Screenshot 2024-07-10 at 4 09 18 PM" src="https://github.com/Wasay-A/Hospital-Database-System/assets/98603984/ca423f4e-2a16-4c37-a55c-4e3b203f15ab">
