@@ -29,5 +29,5 @@ This readme.md file includes an overview and screenshots of the project. In orde
 <b>View Patient Info</b>
 <img width="1440" alt="Screenshot 2024-07-10 at 4 11 36 PM" src="https://github.com/Wasay-A/Hospital-Database-System/assets/98603984/a29decc9-efff-4b4b-b186-721991f21c08">
 <b>Nurse View</b>
-<img width="445" alt="Screenshot 2024-07-10 at 4 36 05 PM" src="https://github.com/Wasay-A/Hospital-Database-System/assets/98603984/61a129fd-bfdc-4042-8018-c522b320962f">
+<img width="445" alt="Screenshot 2024-07-10 at 4 36 05 PM" src="https://github.com/Wasay-A/Hospital-Database-System/assets/98603984/61a129fd-bfdc-4042-8018-c522b320962f"><br>
 <img width="340" alt="Screenshot 2024-07-10 at 4 36 33 PM" src="https://github.com/Wasay-A/Hospital-Database-System/assets/98603984/b2e37f9f-2c65-473a-9a5a-611429214258">
