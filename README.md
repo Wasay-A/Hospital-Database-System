@@ -31,7 +31,7 @@ This readme.md file includes an overview and screenshots of the project. In orde
 <b>Nurse View</b>
 <img width="1440" alt="Screenshot 2024-07-10 at 4 42 22 PM" src="https://github.com/Wasay-A/Hospital-Database-System/assets/98603984/191a8f38-d7d9-4da8-877e-f0c7fc4c6f5b">
 <img width="1440" alt="Screenshot 2024-07-10 at 4 42 32 PM" src="https://github.com/Wasay-A/Hospital-Database-System/assets/98603984/ccd99d32-a4d1-402c-8bac-0907b6660ee6">
-<b>Patient View</b>
+<br><b>Patient View</b>
 <img width="1440" alt="Screenshot 2024-07-10 at 5 08 11 PM" src="https://github.com/Wasay-A/Hospital-Database-System/assets/98603984/bdda1177-946e-4998-b609-dfcf62ff1354">
 <img width="1440" alt="Screenshot 2024-07-10 at 5 08 19 PM" src="https://github.com/Wasay-A/Hospital-Database-System/assets/98603984/6e9c10ab-eb41-4d3a-b256-acef00ff7e02">
 
