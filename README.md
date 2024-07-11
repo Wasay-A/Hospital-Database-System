@@ -3,7 +3,7 @@
 <b>Overview</b><br>
 This is a hospital database system project worked on by Wasay Ahmed and Simon Shibu during Fall 2023 at University of Illinois at Chicago for the course CS 480 Database Systems taught by Professor Abolfazl Asudeh.
 
-This project utilizes database system principles to construct a website which manages a hospital system. The hospital database system has three main user: admin, nurse, and patient. Each user has various functionalities. The admin is able to manage nurses, patients, and vaccinations. The nurse can manage profile information, patients, and schedule time slots. The patient can manage profile information and scheduling vaccinations. Some common tasks the users can accomplish with the database system are updating, deleting, and adding information.
+This project utilizes database system principles to construct a website which manages a hospital system. The hospital database system has three main users: admin, nurse, and patient. Each user has various functionalities. The admin is able to manage nurses, patients, and vaccinations. The nurse can manage profile information, patients, and schedule time slots. The patient can manage profile information and scheduling vaccinations. Some common tasks the users can accomplish with the database system are updating, deleting, and adding information.
 
 The project involved numerous group meetings and two milestones. Milestone 1 involved creating an Entity Relationship Diagram (ERD) for the hospital database system. Milestone 2 involved implementing the database system through XAMPP with Apache HTTP server, MySQL, PHP, and HTML.
 
